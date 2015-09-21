@@ -1,4 +1,4 @@
-**Part 1: Project background and introduction**
+##Part 1: Project background and introduction
 
 This report is the summary of an 18-month long qualitative research project, *Security in Context,* that examines the long term impacts of digital security teaching practices for, and learning experiences of, human rights defenders (HRDs). Conducted between 2013 and 2015, this research study examines the contexts in which the training of and learning by HRDs takes place, and documents and analyses the experiences of digital security trainers and the HRDs they work with.
 
