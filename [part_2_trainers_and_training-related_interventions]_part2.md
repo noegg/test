@@ -1,10 +1,10 @@
-**Part 2: Trainers and Training-related Interventions **
+##Part 2: Trainers and Training-related Interventions
 
 **Lead Researcher: Carol Waters**
 
 This is a trainer-focused study that endeavours to gain a deeper and broader sense of what digital security trainers do, how their work has evolved, and what they have observed working with HRDs over 15+ years of digital security trainings. The second study found in Part 3, 'Security in Context', looks at the experiences of human rights defenders (HRDs) during trainings and their experiences adopting digital security and privacy practices.
 
-**Research context**
+###Research context
 
 This research should be understood against the backdrop of recent trends focused on improving existing approaches to digital security training. These intiatives emerged for several reasons, including the increased profile of the sector, leading to an increase in the number digital security trainings held,and—according to the trainers interviewed—an increasing number of new, inexperienced trainers and organizations leading some of them. These trends prompted recent initiatives that are attempting to improve the dominant models of and approaches to digital security training, as well initiatives to convene previously decentralised and disparate training communities to collaborate, coordinate, and professionalize their work. Organisation-specific training initiatives include TTC's Holistic Security Programme, IREX's S.A.F.E. Programme for journalists at risk, Frontline Defenders' regional Digital Security Consultants, and the two Digital Integrity Fellowship programs led by Hivos and the Open Technology Fund. Efforts to bring the wider digital security training community together for collaboration, coordination, and professional development include the LevelUp Program at Internews (which TTC has partnered with since its inception), and trainer-specific gatherings around the development and dissemination of TTC's Holistic Security curriculum. It is also important to add that despite these important interventions, there has been little to no research evaluating the practices and processes of digital security trainings.
 
@@ -30,7 +30,7 @@ This qualitative research consisted of semi-structured interviews with trainers 
 
 **Interviewee profiles:** We sought a breadth of geographic representation and experience, and gender. Every effort was made to ensure a diverse sample representative of the training community worldwide. Because of the snowball method of sampling participants, many had existing connections to TTC. In an attempt to reduce selection bias, we sought interviewees with weak or non-existent ties to TTC and succeeded in interviewing seven of these individuals. Despite these efforts, it is possible that Tactical Tech’s philosophies, methods, and approaches can be seen to have impacted these findings.
 
-**2.1: A Typology of Digital Security Training Events and Approaches**
+##2.1: A Typology of Digital Security Training Events and Approaches##
 
 In order to understand and analyse what trainers had to share about their work, we needed to establish a common language for our analysis and findings, as well as for our conversations with the trainers themselves. Despite the steady increase of digital and physical security training for HRDs over the past 10-15 years, there is still no common set of key definitions for this core set of activities within the Freedom of Expression and HRD Protection communities. Although many individuals use the words ‘training,’ ‘awareness-raising,’ and ‘training-of-trainers,’ experienced trainers know that these are wide intra-sector differences in how trainings are defined and implemented by different actors and organisations. This can lead to confusion and adversely affect the learning experience and expectations of HRDs.
 
@@ -50,7 +50,7 @@ Three features of awareness-raising activities help differentiate it from 'tradi
 
 Awareness-raising events aren't designed to provide in-depth, hands-on learning or tailored assistance on intermediate and advanced approaches and tools required to effectively address the kind of risks typically faced by HRDs. For many HRDs, this is where training, robust self-learning (which most non-technical users are less likely to effectively accomplish alone), or some form of sustained hands-on learning and support is needed, or they risk becoming 'stuck':
 
-> If you have security awareness, you’re mainly just choosing services on the Internet. After that you need to use a tool to take it to a new level. So eventually you hit a wall. An example of this would be email: you’re aware that emails can be read, but your awareness gets stuck and you can’t use any tools that would prevent this. So you end up asking yourself what to do but you get stuck: Do you stop using email? Some of them just stop thinking about it and stop being concerned — others become more interested and learn tools and attend more trainings. (*Digital security trainer with 12 years experience)*
+> _If you have security awareness, you’re mainly just choosing services on the Internet. After that you need to use a tool to take it to a new level. So eventually you hit a wall. An example of this would be email: you’re aware that emails can be read, but your awareness gets stuck and you can’t use any tools that would prevent this. So you end up asking yourself what to do but you get stuck: Do you stop using email? Some of them just stop thinking about it and stop being concerned — others become more interested and learn tools and attend more trainings. (*Digital security trainer with 12 years experience)_
 
 This is how awareness-raising exists on a spectrum of approaches and activities that overlap with training, but they are rarely coordinated this way for HRD audiences. This can leave an at-risk subset of awareness-raising participants in a difficult position where they can either stop caring about privacy and security all together, or find a way to reach the next ‘stage’ of learning and application, which is where training (or its equivalent) comes in.
 
@@ -74,7 +74,8 @@ Core characteristics of trainings[5] include hands-on installation and use of to
 
 **Content Covered:** The range of content covered is quite varied and extensive, unless trainers take a 'one-size-fits-all' or limited 'tools-only' approach to content. More broadly, the range of content covered includes mix of hands-on and in-depth background including learning how the Internet works, risk analysis, operating systems, basic computer security (anti-virus, passwords), device security (including mobiles), and more.
 
-**2.2: What enables effective trainings?**
+
+## 2.2: What enables effective trainings?
 
 As part of our efforts to gain a sense of what trainers believed led to successful training workshops and long-term impact, we asked our interviewees a series of questions about the ingredients of trainings, which approaches were more effective, and what differentiated novice, experienced, and outstanding trainers.
 
@@ -98,7 +99,7 @@ Based on experience, direct observations, and their personal training approaches
 
 **Follow-up:** Despite the fact that follow-up is crucial to learning, retaining, and properly implementing what participants have learned, trainers report that follow-up is almost never funded. Trainers reported great frustration with how follow-up is a necessity for trainings to make an impact but struggled to do it or do it well. Trainers say that true learning begins when the training ends, because this is when participants choose to either start using the tools and knowledge back in their day-to-day lives or decide to not implement what they’ve learned. But despite knowing that this moment is the most delicate and crucial to uptake, trainers are unable to successfully secure the necessary resources to improve outcomes at this decisive stage in the training. Because of this, motivated, at-risk participants tend to return back to their daily lives from workshops and are overwhelmed by their ongoing responsibilities, the challenge of using difficult tools and tactics alone and without organisational or social support, and often with only a fragment of a trainers’ free time that they are able to spare for follow-up. HRD training participants resoundingly supported these same findings in the Security in Context research findings in Part 3.
 
-**Approaches and strategies for effective trainings**
+###Approaches and strategies for effective trainings###
 
 Trainers' descriptions of recommended teaching approaches and methods were one of the richest areas of discussion with trainers; our findings are highly abridged here.
 
@@ -112,7 +113,9 @@ Trainers' descriptions of recommended teaching approaches and methods were one o
 
 **Using (in)security demonstrations selectively, carefully, and ethically:** Several interviewees described how their positions on 'security' or 'insecurity demos' had changed over time as they moved away from the ‘fear-based, tool-centric’ model of trainings. Live security (or 'insecurity') demos are when trainers demonstrate how an specific type of digital attack is carried out (e.g., capturing passwords as someone logs into an online account, or directly accessing data on a laptop or mobile phone without a password). Trainers have been known to target participants without warning or permission during these demos, which can result in participants' passwords being captured and revealed to a group of participants, or having their laptop accessed while they are out of the room for lunch or break. This can leave participants feeling attacked, embarrassed, or even 'singled out', which can lead to a hostile environment and poor training outcomes. A small number of interviewees even said they would not do demonstrations, but the dominant sentiment was that they are a vital awareness-raising and teaching tool for trainers. One trainer summed up a commonly shared opinion that ‘insecurity demos are THE MOST effective \[teaching\] tactic, but they can easily go astray if you’re not controlling every element carefully.’[11]
 
-**2.3: The current approach to evaluating 'one-off' trainings is broken**
+
+## **2.3: The current approach to evaluating 'one-off' trainings is broken**
+
 
 Our interviewees agreed that the current approach to evaluating the effectiveness of 'one-off' digital security trainings—especially *after* a training has ended—is profoundly broken. There are evaluation approaches that trainers feel work well in limited ways *or* as part of sustained, long-term engagements. But one trainer summed up an almost unanimous sentiment of interviewees: ‘I don’t know any good way to do monitoring and evaluation in a meaningful way.’
 
@@ -166,7 +169,7 @@ It is interesting to note that whereas digital security trainings and trainers e
 
 Today, the spirit and approach of circuit riding has become inverted for digital security trainings and trainers: They almost never work at the collective level (and target individuals instead), rarely see or experience organisation-wide buy-in and support to improve collective digital safety, and are even treated hostilely or dismissively by organisations. Instead of a deep collaboration with organisations and groups, they are deployed as one-time deliverers of skills and knowledge to individuals at a ‘one-off’ event. Instead of a shared understanding that adoption and proper use of tools and tactics takes time and support, their body of knowledge is expected to be delivered in as short and discrete a period of time as possible, requiring no post-workshop assistance or support for participants to begin to use these tools correctly or well in their daily lives.
 
-**Recommendations **
+##Recommendations##
 
 The following are top-level recommendations based on the findings of this research study.
 
